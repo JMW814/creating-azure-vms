@@ -130,6 +130,8 @@ I first created a new resource group, named it osticket”, and deployed it in E
 Step 7. 
 
 For the final step, I went into the Virtual machines tab and then clicked Create. I selected the OSticket resource group, selected the East US region, named it “OSVM”, selected Windows 10 Enterprise as its image, and selected its size as anything with 2vcpus and at least 8 GB RAM.
+
+Just like the first two, I created a username and password for it, then made sure its selected inbound ports were set to RDP so I could use Remote Desktop to access it, touched no other setting, and clicked create.
 </p>
 <br />
 
